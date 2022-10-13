@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/dima-anatsko/dima-anatsko/blob/main/assets/coding_with_home.gif)
 
 About me
 
