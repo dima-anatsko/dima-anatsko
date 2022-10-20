@@ -1,5 +1,6 @@
 ### I'm a software engineer.
-I like developing the server side of a web application.
+I like developing things that quite possibly have the potential to change the world.
+I like being part of a global industry where everyone knows that arrays start at zero :).
 ___
 ### Latest Projects
 [CRM system for coffee shops based on Django](https://github.com/dima-anatsko/coffee_point)
