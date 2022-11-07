@@ -3,6 +3,8 @@ I like developing things that quite possibly have the potential to change the wo
 I like being part of a global industry where everyone knows that arrays start at zero :).
 ___
 ### Latest Projects
+[Youtube audio downloader bot](https://github.com/dima-anatsko/download_youtube_audio)
+
 [CRM system for coffee shops based on Django](https://github.com/dima-anatsko/coffee_point)
 
 [Internet-shop on Django](https://github.com/dima-anatsko/z25_web/tree/lesson8_anatsko)
